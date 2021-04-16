@@ -1,0 +1,166 @@
+import React, { Component } from "react";
+
+export class Projects extends Component {
+  render() {
+    return (
+      <div>
+        {/* Jog Logger */}
+        <div className="row justify-content-md-center project">
+          <div className="col-md-auto">
+            <img
+              src="https://github.com/jxhnkndl/workout-log/raw/main/assets/Joglogger.gif"
+              className="Jog"
+              alt="Jog Logger"
+            />
+          </div>
+        </div>
+        <div className="row justify-content-md-center">
+          <div className="col-xs-auto">
+            <a
+              className="descrp-text Jog-app highlight-me"
+              href="https://vast-inlet-10059.herokuapp.com/add_workout"
+            >
+              <i className="far fa-window-restore"></i>
+              Joglogger Deployed App
+            </a>
+          </div>
+          <div className="col-xs-auto">
+            <a
+              className="descrp-text Jog-repo highlight-me"
+              href="https://github.com/jxhnkndl/workout-log"
+            >
+              <i className="fab fa-github"></i>
+              Jog Logger GitHub Repo
+            </a>
+          </div>
+        </div>
+
+        {/* Burger Project */}
+        <div className="row justify-content-md-center project">
+          <div className="col-md-auto">
+            <img
+              src="https://github.com/kspoth/eat-da-burger/raw/main/public/assets/img/Screen%20Shot%202021-03-03%20at%208.35.57%20PM.png?raw=true"
+              className="burger"
+              alt="Burger"
+            />
+          </div>
+        </div>
+        <div className="row justify-content-md-center">
+          <div className="col-xs-auto">
+            <a
+              className="descrp-text burger-app highlight-me"
+              href="https://polar-crag-98155.herokuapp.com/"
+            >
+              <i className="far fa-window-restore"></i>
+              eat-da-burger Deployed App
+            </a>
+          </div>
+          <div className="col-xs-auto">
+            <a
+              className="descrp-text burger-repo highlight-me"
+              href="https://github.com/kspoth/eat-da-burger"
+            >
+              <i className="fab fa-github"></i>
+              eat-da-burger GitHub Repo
+            </a>
+          </div>
+        </div>
+
+        {/* Workout Tracker */}
+        <div className="row justify-content-md-center project">
+          <div className="col-md-auto">
+            <img
+              src="https://github.com/kspoth/workout-tracker"
+              className="Workout"
+              alt="Workout"
+            />
+          </div>
+        </div>
+        <div className="row justify-content-md-center">
+          <div className="col-xs-auto">
+            <a
+              className="descrp-text workout-app highlight-me"
+              href="https://powerful-lake-11175.herokuapp.com/?id=6066948090c72d001524e2ae"
+            >
+              <i className="far fa-window-restore"></i>
+              Workout Tracker Deployed App
+            </a>
+          </div>
+          <div className="col-xs-auto">
+            <a
+              className="descrp-text bandmates-repo highlight-me"
+              href="https://github.com/kspoth/workout-tracker"
+            >
+              <i className="fab fa-github"></i>
+              Workout Tracker GitHub Repo
+            </a>
+          </div>
+        </div>
+
+        {/* Foobar App */}
+        <div class="row justify-content-md-center project">
+          <div class="col-xs-auto">
+            <img
+              src="https://github.com/todtsies/Project-1/raw/main/assets/Images/recipe-side-demo.gif"
+              class="foobar-app"
+              alt="foobar web app"
+            />
+          </div>
+        </div>
+        <div class="row justify-content-md-center">
+          <div class="col-xs-auto">
+            <a
+              class="descrp-text foobar-app highlight-me"
+              href="https://todtsies.github.io/Project-1/"
+            >
+              <i class="far fa-window-restore"></i>
+              The Foobar Finder Deployed App
+            </a>
+          </div>
+          <div class="col-md-auto">
+            <a
+              class="descrp-text foobar-repo highlight-me"
+              href="https://github.com/todtsies/Project-1"
+            >
+              <i class="fab fa-github"></i>
+              The Foobar Finder GitHub Repo
+            </a>
+          </div>
+        </div>
+
+        {/* Coding Quiz */}
+        <div className="row justify-content-md-center project">
+          <div className="col-md-auto">
+            <img
+              src="https://github.com/kspoth/Coding-Quiz/raw/main/Images/Screen%20Shot%202020-12-14%20at%2012.03.20%20AM.png?raw=true"
+              className="quiz-app"
+              alt="Coding Quiz web app"
+            />
+          </div>
+        </div>
+        <div className="row justify-content-md-center">
+          <div className="col-xs-auto">
+            <a
+              className="descrp-text quiz-app highlight-me"
+              href="https://kspoth.github.io/Coding-Quiz/"
+            >
+              <i className="far fa-window-restore"></i>
+              The Coding Quiz Deployed App
+            </a>
+          </div>
+          <div className="col-xs-auto">
+            <a
+              className="descrp-text quiz-repo highlight-me"
+              href="https://github.com/kspoth/Coding-Quiz"
+            >
+              <i className="fab fa-github"></i>
+              The Coding Quiz GitHub Repo
+            </a>
+          </div>
+        </div>
+      </div>
+    );
+  }
+}
+
+export default Projects;
