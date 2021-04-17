@@ -1,6 +1,6 @@
 body {
     background-color: rgb(63, 63, 63);
-    color: white;
+    color: #49a7a2;
     background-image: url("background.png");
     background-position: center;
     background-repeat: no-repeat;
@@ -15,7 +15,7 @@ body {
   }
   a,
   .fa-envelope {
-    color: rgba(74, 77, 233, 0.781);
+    color: #49a7a2;
   }
   .short-bio {
     font-family: "Oswald", sans-serif;
@@ -45,11 +45,11 @@ body {
   i {
     margin: 0px 7px 0px 7px;
     font-size: xx-large;
-    color: rgba(89, 103, 228, 0.781);
+    color: #49a7a2;
   }
   
   .highlight-me:hover {
-    color: rgba(148, 231, 110, 0.781);
+    color: rgba(41, 129, 0, 0.781);
   }
   .descrp-text {
     font-family: "Oswald", sans-serif;

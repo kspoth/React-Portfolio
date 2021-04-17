@@ -7,11 +7,7 @@ export class Projects extends Component {
         {/* Jog Logger */}
         <div className="row justify-content-md-center project">
           <div className="col-md-auto">
-            <img
-              src="https://github.com/jxhnkndl/workout-log/raw/main/assets/Joglogger.gif"
-              className="Jog"
-              alt="Jog Logger"
-            />
+            <img src="assets/Joglogger.gif" className="Jog" alt="Jog Logger" />
           </div>
         </div>
         <div className="row justify-content-md-center">
@@ -38,11 +34,7 @@ export class Projects extends Component {
         {/* Burger Project */}
         <div className="row justify-content-md-center project">
           <div className="col-md-auto">
-            <img
-              src="https://github.com/kspoth/eat-da-burger/raw/main/public/assets/img/Screen%20Shot%202021-03-03%20at%208.35.57%20PM.png?raw=true"
-              className="burger"
-              alt="Burger"
-            />
+            <img src="assets/burger.png" className="burger" alt="Burger" />
           </div>
         </div>
         <div className="row justify-content-md-center">
@@ -69,11 +61,7 @@ export class Projects extends Component {
         {/* Workout Tracker */}
         <div className="row justify-content-md-center project">
           <div className="col-md-auto">
-            <img
-              src="https://github.com/kspoth/workout-tracker"
-              className="Workout"
-              alt="Workout"
-            />
+            <img src="assets/workout.png" className="Workout" alt="Workout" />
           </div>
         </div>
         <div className="row justify-content-md-center">
@@ -101,7 +89,7 @@ export class Projects extends Component {
         <div class="row justify-content-md-center project">
           <div class="col-xs-auto">
             <img
-              src="https://github.com/todtsies/Project-1/raw/main/assets/Images/recipe-side-demo.gif"
+              src="assets/foobar.gif"
               class="foobar-app"
               alt="foobar web app"
             />
@@ -132,7 +120,7 @@ export class Projects extends Component {
         <div className="row justify-content-md-center project">
           <div className="col-md-auto">
             <img
-              src="https://github.com/kspoth/Coding-Quiz/raw/main/Images/Screen%20Shot%202020-12-14%20at%2012.03.20%20AM.png?raw=true"
+              src="assets/quiz.png"
               className="quiz-app"
               alt="Coding Quiz web app"
             />
