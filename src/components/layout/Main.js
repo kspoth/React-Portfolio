@@ -24,7 +24,7 @@ export class Main extends Component {
           <div className="col-auto">
             <a
               className="highlight-me"
-              href="assets/Resume Kevin Spoth 3-25-2021 FSW.pdf"
+              href="assets/ResumeKevinSpoth04-17-2021FSW.pdf"
               download="Kevin_Spoth_Resume"
             >
               Resume

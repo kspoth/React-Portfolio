@@ -57,9 +57,9 @@ body {
   .links {
     padding-top: 8%;
   }
-  .jog,
+  .Jog,
   .burger,
-  .workout,
+  .Workout,
   .foobar-app,
   .quiz-app {
     width: 750px;
@@ -68,9 +68,9 @@ body {
   }
   
   @media screen and (max-width: 450px) {
-  .jog,
+  .Jog,
   .burger,
-  .workout,
+  .Workout,
   .foobar-app,
   .quiz-app {
       max-width: 90vw;
