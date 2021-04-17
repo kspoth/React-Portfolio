@@ -34,7 +34,7 @@ export class Projects extends Component {
         {/* Burger Project */}
         <div className="row justify-content-md-center project">
           <div className="col-md-auto">
-            <img src="assets/burger.png" className="burger" alt="Burger" />
+            <img src="assets/burger.gif" className="burger" alt="Burger" />
           </div>
         </div>
         <div className="row justify-content-md-center">
@@ -61,7 +61,7 @@ export class Projects extends Component {
         {/* Workout Tracker */}
         <div className="row justify-content-md-center project">
           <div className="col-md-auto">
-            <img src="assets/workout.png" className="Workout" alt="Workout" />
+            <img src="assets/Fitness.gif" className="Workout" alt="Workout" />
           </div>
         </div>
         <div className="row justify-content-md-center">
@@ -120,7 +120,7 @@ export class Projects extends Component {
         <div className="row justify-content-md-center project">
           <div className="col-md-auto">
             <img
-              src="assets/quiz.png"
+              src="assets/quiz.gif"
               className="quiz-app"
               alt="Coding Quiz web app"
             />
