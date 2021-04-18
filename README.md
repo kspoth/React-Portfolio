@@ -26,7 +26,7 @@
 - Portfolio: https://kevinspoth-portfolio.herokuapp.com/
 - ks2145@email.vccs.edu
 - [Linkedin](https://www.linkedin.com/in/kevin-spoth-4924034b/)
-- [Resume](assets/ResumeKevinSpoth04-17-2021FSW.pdf)
+- [Resume](/Users/kevinspoth/BCS/react-portfolio/public/assets/ResumeKevinSpoth04-17-2021FSW.pdf)
 
 ### Built With
 

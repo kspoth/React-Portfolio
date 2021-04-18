@@ -7,6 +7,12 @@ const Navbar = () => {
       <span className="navbar-brand mb-0 h1"> </span>
       <ul className="nav justify-content-end">
         <Link className="fas fa-home highlight-me icon-link" to="/"></Link>
+        <a>
+          <Link
+            className="fas fa-suitcase highlight-me icon-link"
+            to="/projects"
+          ></Link>
+        </a>
         <a
           className="fab fa-github highlight-me icon-link"
           href="https://github.com/kspoth"

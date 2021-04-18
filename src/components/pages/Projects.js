@@ -86,31 +86,31 @@ export class Projects extends Component {
         </div>
 
         {/* Foobar App */}
-        <div class="row justify-content-md-center project">
-          <div class="col-xs-auto">
+        <div className="row justify-content-md-center project">
+          <div className="col-xs-auto">
             <img
               src="assets/foobar.gif"
-              class="foobar-app"
+              className="foobar-app"
               alt="foobar web app"
             />
           </div>
         </div>
-        <div class="row justify-content-md-center">
-          <div class="col-xs-auto">
+        <div className="row justify-content-md-center">
+          <div className="col-xs-auto">
             <a
-              class="descrp-text foobar-app highlight-me"
+              className="descrp-text foobar-app highlight-me"
               href="https://todtsies.github.io/Project-1/"
             >
-              <i class="far fa-window-restore"></i>
+              <i className="far fa-window-restore"></i>
               The Foobar Finder Deployed App
             </a>
           </div>
-          <div class="col-md-auto">
+          <div className="col-md-auto">
             <a
-              class="descrp-text foobar-repo highlight-me"
+              className="descrp-text foobar-repo highlight-me"
               href="https://github.com/todtsies/Project-1"
             >
-              <i class="fab fa-github"></i>
+              <i className="fab fa-github"></i>
               The Foobar Finder GitHub Repo
             </a>
           </div>
