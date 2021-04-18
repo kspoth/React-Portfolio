@@ -44,7 +44,7 @@ export class Projects extends Component {
               href="https://polar-crag-98155.herokuapp.com/"
             >
               <i className="far fa-window-restore"></i>
-              eat-da-burger Deployed App
+              Eat-Da-Burger Deployed App
             </a>
           </div>
           <div className="col-xs-auto">
@@ -53,7 +53,7 @@ export class Projects extends Component {
               href="https://github.com/kspoth/eat-da-burger"
             >
               <i className="fab fa-github"></i>
-              eat-da-burger GitHub Repo
+              Eat-Da-Burger GitHub Repo
             </a>
           </div>
         </div>
