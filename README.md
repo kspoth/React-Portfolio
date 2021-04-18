@@ -25,6 +25,7 @@
 - Kevin Spoth
 - Portfolio: https://kevinspoth-portfolio.herokuapp.com/
 - ks2145@email.vccs.edu
+- 703-498-9381
 - [Linkedin](https://www.linkedin.com/in/kevin-spoth-4924034b/)
 - [Resume](https://user-images.githubusercontent.com/63674444/115133108-bc3d9380-9fd3-11eb-9865-14bf1a7c6dba.png)
 
@@ -36,11 +37,5 @@
 - Javascript
 - React
 - Heroku
-
-<!-- CONTACT -->
-
-## Contact
-
-Kevin Spoth - ks2145@email.vccs.edu
 
 Project repository link: (https://github.com/kspoth/React-Portfolio)
