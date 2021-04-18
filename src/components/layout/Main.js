@@ -16,7 +16,7 @@ export class Main extends Component {
         <p className="short-bio">
           Aspiring full stack web developer at the University of Richmond's
           Full-Stack Web Development Bootcamp. I am experienced with programming
-          technologies such as JavaScript, HTML, CSS, Web API's, Heroku NodeJS,
+          technologies such as JavaScript, HTML, CSS, Web API's, Heroku, NodeJS,
           JQuery, MySQL, MongoDB, DOM Manipulation, ReactJS, Git and Github
           through working on projects and daily programming exercises. I am
           certain that my passion and interest in technology and business
