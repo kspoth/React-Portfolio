@@ -105,7 +105,7 @@ export class Projects extends Component {
               The Foobar Finder Deployed App
             </a>
           </div>
-          <div className="col-md-auto">
+          <div className="col-xs-auto">
             <a
               className="descrp-text foobar-repo highlight-me"
               href="https://github.com/todtsies/Project-1"
