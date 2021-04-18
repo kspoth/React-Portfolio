@@ -105,7 +105,7 @@ export class Projects extends Component {
               The Foobar Finder Deployed App
             </a>
           </div>
-          <div className="col-xs-auto">
+          <div className="col-md-auto float-right">
             <a
               className="descrp-text foobar-repo highlight-me"
               href="https://github.com/todtsies/Project-1"
@@ -115,7 +115,15 @@ export class Projects extends Component {
             </a>
           </div>
         </div>
-
+        {/* //<div className="col-xs-auto">
+            <a
+              className="descrp-text quiz-repo highlight-me"
+              href="https://github.com/kspoth/Coding-Quiz"
+            >
+              <i className="fab fa-github"></i>
+              The Coding Quiz GitHub Repo
+            </a>
+          </div> */}
         {/* Coding Quiz */}
         <div className="row justify-content-md-center project">
           <div className="col-md-auto">
