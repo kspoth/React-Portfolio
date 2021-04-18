@@ -87,7 +87,7 @@ export class Projects extends Component {
 
         {/* Foobar App */}
         <div className="row justify-content-md-center project">
-          <div className="col-xs-auto">
+          <div className="col-md-auto">
             <img
               src="assets/foobar.gif"
               className="foobar-app"
