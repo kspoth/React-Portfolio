@@ -4,15 +4,15 @@
 
 ## Known Programming Languages & Technologies
 
-| Browser Technologies                       | Server Development  |
-| ------------------------------------------ | ------------------- |
-| HTML & CSS                                 | Node.js             |
-| Javascript, JQuery, JSX                    | Express             |
-| Responsive Design                          | User Authentication |
-| Bootstrap & Material UI                    | PWAs                |
-| Handlebars                                 | MERN Stack          |
-| Local Storage, Session Storage, Indexed DB |                     |
-| React                                      |                     |
+| Browser Technologies             | Server Development  |
+| -------------------------------- | ------------------- |
+| HTML & CSS                       | Node.js             |
+| Javascript & JQuery              | Express             |
+| User Interface Responsive Design | User Authentication |
+| Bootstrap                        | PWAs                |
+| Handlebars                       | MERN Stack          |
+| Local Storage & Indexed DB       |                     |
+| React                            |                     |
 
 | API Interaction | Databases | Deployment & Command-Line |
 | --------------- | --------- | ------------------------- |
