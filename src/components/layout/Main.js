@@ -8,7 +8,7 @@ export class Main extends Component {
         <div className="photo-container">
           <img
             src="assets/ProfilePic.jpeg"
-            alt="Kevin Spoth's Profile Picture"
+            alt="Kevin Spoth's Profile"
             className="card-img bio-image"
           />
         </div>
