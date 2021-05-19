@@ -4,6 +4,36 @@ export class Projects extends Component {
   render() {
     return (
       <div>
+        {/* Crypto-Tracker */}
+        <div className="row justify-content-md-center project">
+          <div className="col-md-auto">
+            <img
+              src="assets/ReactCryptoSearch.gif"
+              className="Crypto"
+              alt="Crypto-Tracker"
+            />
+          </div>
+        </div>
+        <div className="row justify-content-md-center">
+          <div className="col-xs-auto">
+            <a
+              className="descrp-text Crypto-app highlight-me"
+              href="https://shielded-river-83957.herokuapp.com/"
+            >
+              <i className="far fa-window-restore"></i>
+              Crypto-Tracker Deployed App
+            </a>
+          </div>
+          <div className="col-xs-auto">
+            <a
+              className="descrp-text Crypto-repo highlight-me"
+              href="https://github.com/kspoth/crypto-tracker"
+            >
+              <i className="fab fa-github"></i>
+              Crypto-Tracker GitHub Repo
+            </a>
+          </div>
+        </div>
         {/* Jog Logger */}
         <div className="row justify-content-md-center project">
           <div className="col-md-auto">

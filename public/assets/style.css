@@ -57,6 +57,7 @@ body {
   .links {
     padding-top: 8%;
   }
+  .Crypto,
   .Jog,
   .burger,
   .Workout,
@@ -68,6 +69,7 @@ body {
   }
   
   @media screen and (max-width: 450px) {
+  .Crypto,  
   .Jog,
   .burger,
   .Workout,
